@@ -7,3 +7,5 @@ I began programming as a hobby when I was **10 years old**, back in **2019**. Ov
 I'm always eager to **explore new challenges**, but I believe in starting with a **strong foundation**. I aim to avoid **basic mistakes**, support others whenever I can, and never hesitate to **ask for help**.
 
 > If you want to get in touch, send an [Email](mailto:alex.vieir.oliveira@gmail.com).
+
+> I like linux <3
