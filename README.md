@@ -9,7 +9,7 @@ I'm always eager to **explore new challenges**, but I believe in starting with a
 ---
 
 <h2 align="center">
-    Tecnologias que utilizo:
+    Technologies I use:
 </h2>
 <p align="center">
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML"/></code> &nbsp;&nbsp;
