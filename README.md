@@ -29,5 +29,3 @@ I'm always eager to **explore new challenges**, but I believe in starting with a
 <br/>
 
 > If you want to get in touch, send an [Email](mailto:alex.vieir.oliveira@gmail.com).
-
-> I like linux <3
