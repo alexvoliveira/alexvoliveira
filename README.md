@@ -8,16 +8,10 @@ I'm always eager to **explore new challenges**, but I believe in starting with a
 
 ---
 
-<h2 align="center">Technologies I use</h2>
-
-<p align="center">
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" />
-    &nbsp;&nbsp;
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" />
-    &nbsp;&nbsp;
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" />
-    &nbsp;&nbsp;
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" />
-</p>
+### 🛠 Tech Stack  
+#### Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-%23000000.svg?style=for-the-badge&logo=yaml&logoColor=white)
 
 > If you want to get in touch, send an [Email](mailto:alex.vieir.oliveira@gmail.com).
