@@ -11,7 +11,6 @@ I'm always eager to **explore new challenges**, but I believe in starting with a
 ### 🛠 Tech Stack  
 #### Languages  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-%23000000.svg?style=for-the-badge&logo=yaml&logoColor=white)
+![C](https://img.shields.io/badge/C-%230095D5.svg?style=for-the-badge&logo=c&logoColor=white)
 
 > If you want to get in touch, send an [Email](mailto:alex.vieir.oliveira@gmail.com).
