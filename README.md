@@ -20,7 +20,7 @@ I'm always eager to **explore new challenges**, but I believe in starting with a
 #### IDEs & OS  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D6.svg?style=for-the-badge&logo=windows11&logoColor=white)
-![]
+![ArchLinux](https://img.shields.io/badge/ArchLinux-%230078D6.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 
 ---
 
