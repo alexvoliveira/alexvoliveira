@@ -13,4 +13,15 @@ I'm always eager to **explore new challenges**, but I believe in starting with a
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%230095D5.svg?style=for-the-badge&logo=c&logoColor=white)
 
+#### Tools & Frameworks  
+![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+#### IDEs & OS  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D6.svg?style=for-the-badge&logo=windows11&logoColor=white)
+![]
+
+---
+
 > If you want to get in touch, send an [Email](mailto:alex.vieir.oliveira@gmail.com).
