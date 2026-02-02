@@ -13,7 +13,7 @@ I'm always eager to **explore new challenges**, but I believe in starting with a
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%230095D5.svg?style=for-the-badge&logo=c&logoColor=white)
 
-#### Tools & Frameworks  
+#### Tools  
 ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 
