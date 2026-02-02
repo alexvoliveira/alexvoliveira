@@ -13,18 +13,22 @@ I believe good developers are built on strong fundamentals. For that reason, I a
 ### 🛠 Tech Stack
 
 **Languages**
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![C](https://img.shields.io/badge/C-%230095D5.svg?style=for-the-badge\&logo=c\&logoColor=white)
 
 **Build**
+
 ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge\&logo=gradle\&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge\&logo=apachemaven\&logoColor=white)
 
 **Development Environment**
+
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge\&logo=clion\&logoColor=white)
 
 **Operating Systems**
+
 ![ArchLinux](https://img.shields.io/badge/ArchLinux-%230078D6.svg?style=for-the-badge\&logo=archlinux\&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=Ubuntu\&logoColor=white)
 
